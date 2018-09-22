@@ -1,0 +1,23 @@
+_repo: Excursions-in-Art-and-Letters_54773
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Story, William Wetmore
+    birthdate: 1819
+    deathdate: 1895
+    gutenberg_agent_id: '3041'
+    url: http://www.gutenberg.org/2009/agents/3041
+    wikipedia: http://en.wikipedia.org/wiki/William_Wetmore_Story
+description: ''
+gutenberg_issued: '2017-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Excursions in Art and Letters
+url: http://www.gutenberg.org/ebooks/54773
